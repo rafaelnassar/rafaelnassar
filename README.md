@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/rafaelnassar)
 <h1 align="center">Olá 👋, eu sou Rafael Nassar.</h1>
-<h3 align="center">Desenvolvedor frontend e backend com 4 anos de experiência.</h3>
+<h3 align="center">Desenvolvedor frontend e backend com 6 anos de experiência.</h3>
 
 - 🔭 Atualmente estou trabalhando em **CacttusWeb - CRM**
 

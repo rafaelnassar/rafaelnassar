@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://github.com/rafaelnassar)
 <h1 align="center">Olá 👋, me chamo Rafael Nassar.</h1>
-<h3 align="center">Desenvolvedor front-End e Back-End com 6 anos de experiência, aqui faço o commit de 100% dos meus projetos.</h3>
+<h3 align="center">Desenvolvedor front-End e Back-End com 6 anos de experiência.</h3>
 
 <h3 align="left">Entre em contato:</h3>
 <p align="left">
